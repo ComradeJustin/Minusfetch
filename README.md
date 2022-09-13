@@ -4,6 +4,4 @@ lightweight system infomation program, should work with every os, not tested on 
 
 
 # Installation
-**Command is**: pipreqs requirements.txt
-You have to change directory to the Folder that contains Minusfetch
-For some reason pipreqs was broken on my linux pc, so if it doesnt work **try**: python -m pipreqs.pipreqs (directory)
+python -m pipreqs (directory), if it doesnt work try python -m pipreqs.pipreqs (directory)
