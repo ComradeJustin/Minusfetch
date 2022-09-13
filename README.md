@@ -1,3 +1,3 @@
 # Minusfetch
-Fetch program, you can see your pc specs. I did this since scratch is boring in computers class
+lightweight system infomation program. I did this since scratch is boring in computers class
 ![image](https://user-images.githubusercontent.com/65973274/189780204-852a15e9-c943-41dc-a652-d0ce3ec96c14.png)
