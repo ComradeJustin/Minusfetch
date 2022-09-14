@@ -4,4 +4,5 @@ lightweight system infomation program, should work with every os, not tested on 
 
 
 # Installation
-python -m pipreqs (directory), if it doesnt work try python -m pipreqs.pipreqs (directory)
+pip install -r requirements.txt
+
