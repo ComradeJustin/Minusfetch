@@ -1,6 +1,12 @@
 # Minusfetch v2
   Updated with completely new code, should look better using prompt toolkit. And should have more system info than before.
   ![image](https://user-images.githubusercontent.com/65973274/206840016-62928e3b-2faa-4785-83f3-fdea5d0da57f.png)
+For linux to install use:
+sudo apt-get install scrot
+
+sudo apt-get install python3-tk
+
+sudo apt-get install python3-dev
 
   
   
