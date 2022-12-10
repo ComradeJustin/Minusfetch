@@ -1,6 +1,7 @@
 # Minusfetch v2
   Updated with completely new code, should look better using prompt toolkit. And should have more system info than before.
-  
+  ![image](https://user-images.githubusercontent.com/65973274/206840016-62928e3b-2faa-4785-83f3-fdea5d0da57f.png)
+
   
   
 # Minusfetch v1
